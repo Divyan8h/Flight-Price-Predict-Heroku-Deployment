@@ -1,3 +1,4 @@
 # Flight-Price-Predict-Heroku-Deployment
 
-![image](https://github.com/Divyan8h/Flight-Price-Predict-Heroku-Deployment/assets/99311459/1288f933-c4ee-4128-80d7-9f907d1c9da1)
+![image](https://github.com/Divyan8h/Flight-Price-Predict-Heroku-Deployment/assets/99311459/702016a1-14d0-4273-80d9-ed4b86e0df45)
+
